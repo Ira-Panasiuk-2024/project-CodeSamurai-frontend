@@ -23,7 +23,7 @@
 
 ## 🛠 Technologies
 
-- **Framework:** React 18+
+- **Framework:** React.js 18+
 - **State Management:** Redux Toolkit
 - **Routing:** React Router DOM
 - **HTTP Client:** Axios
@@ -172,7 +172,7 @@ This project was created for educational purposes.
 
 ## 🛠 Технології
 
-- **Framework:** React 18+
+- **Framework:** React.js 18+
 - **Стан додатку:** Redux Toolkit
 - **Маршрутизація:** React Router DOM
 - **HTTP клієнт:** Axios
