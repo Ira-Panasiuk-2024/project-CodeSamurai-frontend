@@ -59,7 +59,7 @@ npm install
    Create a `.env` file in the root directory:
 
 ```env
-VITE_API_URL=
+VITE_API_URL=backend URL
 ```
 
 4. **Start the application:**
@@ -208,7 +208,7 @@ npm install
    Створіть файл `.env` у кореневій папці:
 
 ```env
-VITE_API_URL=
+VITE_API_URL=URL бекенду
 ```
 
 4. **Запуск додатку:**
